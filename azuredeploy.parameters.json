@@ -8,7 +8,7 @@
     "sshRSAPublicKey": {
       "reference": {
         "keyVault": {
-          "id": "/subscriptions/c64bfa73-f7be-4fc0-868d-265001cfa1ff/resourceGroups/demo/providers/Microsoft.KeyVault/vaults/Target"
+          "id": "/subscriptions/c64bfa73-f7be-4fc0-868d-265001cfa1ff/resourceGroups/POC-AzureDevOps/providers/Microsoft.KeyVault/vaults/Target"
         },
         "secretName": "sshRSAPublicKey"
       }
@@ -16,7 +16,7 @@
     "servicePrincipalClientId": {
       "reference": {
         "keyVault": {
-          "id": "/subscriptions/c64bfa73-f7be-4fc0-868d-265001cfa1ff/resourceGroups/demo/providers/Microsoft.KeyVault/vaults/Target"
+          "id": "/subscriptions/c64bfa73-f7be-4fc0-868d-265001cfa1ff/resourceGroups/POC-AzureDevOps/providers/Microsoft.KeyVault/vaults/Target"
         },
         "secretName": "servicePrincipalClientId"
       }
@@ -24,7 +24,7 @@
     "servicePrincipalClientSecret": {
       "reference": {
         "keyVault": {
-          "id": "/subscriptions/c64bfa73-f7be-4fc0-868d-265001cfa1ff/resourceGroups/demo/providers/Microsoft.KeyVault/vaults/Target"
+          "id": "/subscriptions/c64bfa73-f7be-4fc0-868d-265001cfa1ff/resourceGroups/POC-AzureDevOps/providers/Microsoft.KeyVault/vaults/Target"
         },
         "secretName": "servicePrincipalClientSecret"
       }
